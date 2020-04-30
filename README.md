@@ -1,3 +1,3 @@
-# Ludo
+# Tic Tac Toe
 @author Krishnagopal Kar
-A simple Ludo game using Java.
+A simple Tic Tac Toe game using Java.
